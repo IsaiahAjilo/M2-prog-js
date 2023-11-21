@@ -2,7 +2,6 @@ class App
 {
     runApplication()
     {
-        let Appnaam = "tyrone"
         let versienummer = 1.0
         let versiedatum = "21/11/2023"
         let autheur = "isaiah ajilo"
