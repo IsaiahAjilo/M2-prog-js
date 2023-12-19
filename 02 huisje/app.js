@@ -15,7 +15,7 @@ class App
         g.fill()
         
         g.beginPath();
-        g.fillStyle = "yellow";
+        g.fillStyle = "white";
         g.moveTo(20,30);
         g.lineTo(20,50);
         g.lineTo(60,60)
@@ -25,7 +25,7 @@ class App
         g.fill()
 
         g.beginPath();
-        g.fillstyle = "red";
+        g.fillstyle = "brown";
         g.moveTo(80,30);
         g.lineTo(60,40);
         g.lineTo(60,60)
@@ -35,7 +35,7 @@ class App
         g.fill()
 
         g.beginPath();
-        g.fillStyle = "red";
+        g.fillStyle = "black";
         g.moveTo(70,20);
         g.lineTo(60,40);
         g.lineTo(80,30)
@@ -44,7 +44,7 @@ class App
         g.fill()
 
         g.beginPath();
-        g.fillStyle = "aqua";
+        g.fillStyle = "yellow";
         g.moveTo(35,50);
         g.lineTo(40,50);
         g.lineTo(40,40)
