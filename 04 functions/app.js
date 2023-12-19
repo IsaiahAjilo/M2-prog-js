@@ -40,7 +40,7 @@ class App
     
 
     anotherFunctionWithArguments(aArgument)
-    {
+    { 
      console.log("kom maar met je argument")
      console.log("hier:")
      console.log(aArgument)
